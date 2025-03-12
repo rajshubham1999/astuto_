@@ -1,0 +1,154 @@
+[
+  {
+    "name": "Alice Johnson",
+    "role": "Engineer",
+    "age": 28,
+    "email": "alicejohnson@gmail.com",
+    "teams": ["Design", "Product", "Development"],
+    "image": "https://i.pravatar.cc/50?img=1"
+  },
+  {
+    "name": "Bob Smith",
+    "role": "Designer",
+    "age": 35,
+    "email": "Bobbuilder@yahoo.com",
+    "teams": ["Design", "Product", "Development"],
+    "image": "https://i.pravatar.cc/50?img=2"
+  },
+  {
+    "name": "Charlie Brown",
+    "role": "Manager",
+    "age": 42,
+    "email": "Charlie@gmail.com",
+    "teams": ["Design", "Product", "Development"],
+    "image": "https://i.pravatar.cc/50?img=3"
+  },
+  {
+    "name": "David White",
+    "role": "Engineer",
+    "age": 30,
+    "email": "David@gmail.com",
+    "teams": ["Design", "Product", "Development"],
+    "image": "https://i.pravatar.cc/50?img=4"
+  },
+  {
+    "name": "Brat Lee",
+    "role": "Manager",
+    "age": 40,
+    "email": "Lee@gmail.com",
+    "teams": ["Design", "Product", "Development"],
+    "image": "https://i.pravatar.cc/50?img=5"
+  },
+  {
+    "name": "Ricky",
+    "role": "Engineer",
+    "age": 30,
+    "email": "ricky@gmail.com",
+    "teams": ["Design", "Product", "Development"],
+    "image": "https://i.pravatar.cc/50?img=7"
+  },
+  {
+    "name": "Simon",
+    "role": "Manager",
+    "age": 43,
+    "email": "simon@gmail.com",
+    "teams": ["Design", "Product", "Development"],
+    "image": "https://i.pravatar.cc/50?img=8"
+  },
+  {
+    "name": "Watson",
+    "role": "Engineer",
+    "age": 26,
+    "email": "Watson@gmail.com",
+    "teams": ["Design", "Product", "Development"],
+    "image": "https://i.pravatar.cc/50?img=9"
+  },
+  {
+    "name": "Smith",
+    "role": "Engineer",
+    "age": 38,
+    "email": "Smith@gmail.com",
+    "teams": ["Design", "Product", "Development"],
+    "image": "https://i.pravatar.cc/50?img=10"
+  },
+  {
+    "name": "Ethan Carter",
+    "role": "Data Scientist",
+    "age": 32,
+    "email": "ethancarter@example.com",
+    "teams": ["Data", "Research", "AI"],
+    "image": "https://i.pravatar.cc/50?img=11"
+  },
+  {
+    "name": "Sophia Martinez",
+    "role": "UX Designer",
+    "age": 29,
+    "email": "sophiamartinez@example.com",
+    "teams": ["Design", "UI/UX", "Product"],
+    "image": "https://i.pravatar.cc/50?img=12"
+  },
+  {
+    "name": "Liam Johnson",
+    "role": "Backend Developer",
+    "age": 34,
+    "email": "liamjohnson@example.com",
+    "teams": ["Development", "Backend", "API"],
+    "image": "https://i.pravatar.cc/50?img=13"
+  },
+  {
+    "name": "Olivia Brown",
+    "role": "Product Manager",
+    "age": 37,
+    "email": "oliviabrown@example.com",
+    "teams": ["Product", "Management", "Strategy"],
+    "image": "https://i.pravatar.cc/50?img=14"
+  },
+  {
+    "name": "Daniel Williams",
+    "role": "DevOps Engineer",
+    "age": 31,
+    "email": "danielwilliams@example.com",
+    "teams": ["Development", "Infrastructure", "Security"],
+    "image": "https://i.pravatar.cc/50?img=15"
+  },
+  {
+    "name": "Emily Davis",
+    "role": "Frontend Developer",
+    "age": 27,
+    "email": "emilydavis@example.com",
+    "teams": ["Development", "UI/UX", "Frontend"],
+    "image": "https://i.pravatar.cc/50?img=16"
+  },
+  {
+    "name": "Michael Wilson",
+    "role": "Cybersecurity Analyst",
+    "age": 36,
+    "email": "michaelwilson@example.com",
+    "teams": ["Security", "Infrastructure", "IT"],
+    "image": "https://i.pravatar.cc/50?img=17"
+  },
+  {
+    "name": "Isabella Moore",
+    "role": "Marketing Strategist",
+    "age": 33,
+    "email": "isabellamoore@example.com",
+    "teams": ["Marketing", "Sales", "Branding"],
+    "image": "https://i.pravatar.cc/50?img=18"
+  },
+  {
+    "name": "James Anderson",
+    "role": "Software Architect",
+    "age": 45,
+    "email": "jamesanderson@example.com",
+    "teams": ["Development", "Architecture", "Innovation"],
+    "image": "https://i.pravatar.cc/50?img=19"
+  },
+  {
+    "name": "Ava Thompson",
+    "role": "HR Specialist",
+    "age": 30,
+    "email": "avathompson@example.com",
+    "teams": ["HR", "People", "Recruitment"],
+    "image": "https://i.pravatar.cc/50?img=20"
+  }
+]
