@@ -12,7 +12,7 @@
     "role": "Designer",
     "age": 35,
     "email": "Bobbuilder@yahoo.com",
-    "teams": ["Design", "Product", "Development"],
+    "teams": ["Design", "Product", "HR"],
     "image": "https://i.pravatar.cc/50?img=2"
   },
   {
@@ -20,7 +20,7 @@
     "role": "Manager",
     "age": 42,
     "email": "Charlie@gmail.com",
-    "teams": ["Design", "Product", "Development"],
+    "teams": ["HR", "Product", "Development"],
     "image": "https://i.pravatar.cc/50?img=3"
   },
   {
@@ -28,7 +28,7 @@
     "role": "Engineer",
     "age": 30,
     "email": "David@gmail.com",
-    "teams": ["Design", "Product", "Development"],
+    "teams": ["Development", "Product", "Design"],
     "image": "https://i.pravatar.cc/50?img=4"
   },
   {
@@ -36,7 +36,7 @@
     "role": "Manager",
     "age": 40,
     "email": "Lee@gmail.com",
-    "teams": ["Design", "Product", "Development"],
+    "teams": ["HR", "Design", "Product"],
     "image": "https://i.pravatar.cc/50?img=5"
   },
   {
@@ -44,111 +44,159 @@
     "role": "Engineer",
     "age": 30,
     "email": "ricky@gmail.com",
-    "teams": ["Design", "Product", "Development"],
-    "image": "https://i.pravatar.cc/50?img=7"
+    "teams": ["Development", "Design", "HR"],
+    "image": "https://i.pravatar.cc/50?img=6"
   },
   {
     "name": "Simon",
     "role": "Manager",
     "age": 43,
     "email": "simon@gmail.com",
-    "teams": ["Design", "Product", "Development"],
-    "image": "https://i.pravatar.cc/50?img=8"
+    "teams": ["Design", "Development", "HR"],
+    "image": "https://i.pravatar.cc/50?img=7"
   },
   {
     "name": "Watson",
     "role": "Engineer",
     "age": 26,
     "email": "Watson@gmail.com",
-    "teams": ["Design", "Product", "Development"],
-    "image": "https://i.pravatar.cc/50?img=9"
+    "teams": ["Product", "Development", "HR"],
+    "image": "https://i.pravatar.cc/50?img=8"
   },
   {
     "name": "Smith",
     "role": "Engineer",
     "age": 38,
     "email": "Smith@gmail.com",
-    "teams": ["Design", "Product", "Development"],
-    "image": "https://i.pravatar.cc/50?img=10"
+    "teams": ["Development", "Design", "Product"],
+    "image": "https://i.pravatar.cc/50?img=9"
   },
   {
     "name": "Ethan Carter",
-    "role": "Data Scientist",
+    "role": "Product Manager",
     "age": 32,
     "email": "ethancarter@example.com",
-    "teams": ["Data", "Research", "AI"],
-    "image": "https://i.pravatar.cc/50?img=11"
+    "teams": ["Product", "Development", "Design"],
+    "image": "https://i.pravatar.cc/50?img=10"
   },
   {
     "name": "Sophia Martinez",
     "role": "UX Designer",
     "age": 29,
     "email": "sophiamartinez@example.com",
-    "teams": ["Design", "UI/UX", "Product"],
-    "image": "https://i.pravatar.cc/50?img=12"
+    "teams": ["Design", "Product", "HR"],
+    "image": "https://i.pravatar.cc/50?img=11"
   },
   {
     "name": "Liam Johnson",
     "role": "Backend Developer",
     "age": 34,
     "email": "liamjohnson@example.com",
-    "teams": ["Development", "Backend", "API"],
-    "image": "https://i.pravatar.cc/50?img=13"
+    "teams": ["Development", "Product", "HR"],
+    "image": "https://i.pravatar.cc/50?img=12"
   },
   {
     "name": "Olivia Brown",
     "role": "Product Manager",
     "age": 37,
     "email": "oliviabrown@example.com",
-    "teams": ["Product", "Management", "Strategy"],
-    "image": "https://i.pravatar.cc/50?img=14"
+    "teams": ["Product", "Development", "Design"],
+    "image": "https://i.pravatar.cc/50?img=13"
   },
   {
     "name": "Daniel Williams",
-    "role": "DevOps Engineer",
+    "role": "Engineer",
     "age": 31,
     "email": "danielwilliams@example.com",
-    "teams": ["Development", "Infrastructure", "Security"],
-    "image": "https://i.pravatar.cc/50?img=15"
+    "teams": ["Development", "Product", "HR"],
+    "image": "https://i.pravatar.cc/50?img=14"
   },
   {
     "name": "Emily Davis",
     "role": "Frontend Developer",
     "age": 27,
     "email": "emilydavis@example.com",
-    "teams": ["Development", "UI/UX", "Frontend"],
-    "image": "https://i.pravatar.cc/50?img=16"
+    "teams": ["Design", "Development", "HR"],
+    "image": "https://i.pravatar.cc/50?img=15"
   },
   {
     "name": "Michael Wilson",
-    "role": "Cybersecurity Analyst",
+    "role": "HR Specialist",
     "age": 36,
     "email": "michaelwilson@example.com",
-    "teams": ["Security", "Infrastructure", "IT"],
-    "image": "https://i.pravatar.cc/50?img=17"
+    "teams": ["HR", "Development", "Product"],
+    "image": "https://i.pravatar.cc/50?img=16"
   },
   {
     "name": "Isabella Moore",
     "role": "Marketing Strategist",
     "age": 33,
     "email": "isabellamoore@example.com",
-    "teams": ["Marketing", "Sales", "Branding"],
-    "image": "https://i.pravatar.cc/50?img=18"
+    "teams": ["Product", "HR", "Development"],
+    "image": "https://i.pravatar.cc/50?img=17"
   },
   {
     "name": "James Anderson",
     "role": "Software Architect",
     "age": 45,
     "email": "jamesanderson@example.com",
-    "teams": ["Development", "Architecture", "Innovation"],
-    "image": "https://i.pravatar.cc/50?img=19"
+    "teams": ["Development", "Design", "HR"],
+    "image": "https://i.pravatar.cc/50?img=18"
   },
   {
     "name": "Ava Thompson",
     "role": "HR Specialist",
     "age": 30,
     "email": "avathompson@example.com",
-    "teams": ["HR", "People", "Recruitment"],
+    "teams": ["HR", "Product", "Design"],
+    "image": "https://i.pravatar.cc/50?img=19"
+  },
+  {
+    "name": "Eleanor King",
+    "role": "UX Designer",
+    "age": 26,
+    "email": "eleanorking@example.com",
+    "teams": ["Design", "Product", "Development"],
     "image": "https://i.pravatar.cc/50?img=20"
+  },
+  {
+    "name": "Jack Evans",
+    "role": "Engineer",
+    "age": 29,
+    "email": "jackevans@example.com",
+    "teams": ["Development", "Product", "HR"],
+    "image": "https://i.pravatar.cc/50?img=21"
+  },
+  {
+    "name": "Lucy Foster",
+    "role": "Product Manager",
+    "age": 41,
+    "email": "lucyfoster@example.com",
+    "teams": ["Product", "Development", "HR"],
+    "image": "https://i.pravatar.cc/50?img=22"
+  },
+  {
+    "name": "Oscar Wright",
+    "role": "HR Manager",
+    "age": 39,
+    "email": "oscarwright@example.com",
+    "teams": ["HR", "Design", "Development"],
+    "image": "https://i.pravatar.cc/50?img=23"
+  },
+  {
+    "name": "Grace Hall",
+    "role": "Designer",
+    "age": 31,
+    "email": "gracehall@example.com",
+    "teams": ["Design", "Development", "Product"],
+    "image": "https://i.pravatar.cc/50?img=24"
+  },
+  {
+    "name": "Henry Adams",
+    "role": "Engineer",
+    "age": 32,
+    "email": "henryadams@example.com",
+    "teams": ["Development", "Product", "HR"],
+    "image": "https://i.pravatar.cc/50?img=25"
   }
 ]
